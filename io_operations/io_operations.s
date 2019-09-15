@@ -3,7 +3,7 @@
 .section .data
 
 .section .bss
-.equ BUFFER_SIZE, 500
+.equ BUFFER_SIZE, 1024
 .equ BUFFER, BUFFER_SIZE
 
 .section .text
